@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+.header {
+    background-color: aqua;
+    color: rgb(29, 16, 202);
+    padding: 10px 0;
+    text-align: center;
+}
+.main-content {
+    padding: 20px;
+}
+.footer {
+    background-color: #f1f1f1;
+    color: #555;
+    text-align: center;
+    padding: 10px 0;
+    position: static;
+}
